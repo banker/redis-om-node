@@ -90,7 +90,7 @@ Pretty cool, right? Read on for details.
 
 ## ⚠️ Before We Get Started
 
-Before we get started there are a couple of things you should know:
+Before we get started there are a few things you should know:
 
   1. This is a *preview*.
   2. **This is a preview**.
